@@ -1,2 +1,2 @@
-# Irisflower_classification
-Lets Grow More_task 1
+# LetsGrowMore_Task1
+Iris Flower Classification
